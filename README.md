@@ -1,21 +1,19 @@
-# Kickstarting with Excel
-## Overview of Project
-<p>
+# Stock-Analysis with VBA and Excel
+## Overview : VBA Stock Analysis Project
 
-</p>
 ## Purpose
 <p>
 
 </p>
-## Analysis and Challenges
+##Analysis and Challenges
 
 <p> 
 
 </p>
 
-## Analysis of Outcomes Based on Launch Date
+## Challenges on Data Background
 
-**Theater Outcomes by Launch Date**
+**Result**
 
 
 
@@ -24,10 +22,12 @@
  </p>
 
 
-## Analysis of Outcomes Based on Goals
+## Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original 
+script and the refactored script.
 
-  **Plays Outcomes Based on Goals**
-
+**original script**
+  
+ **refactored script**
 
 
 <p align="center">
@@ -35,10 +35,12 @@
 
 
 
-## Challenges and Difficulties Encountered
+## Summary : Challenges and Difficulties Encountered
 
 
-
+Summary: In a summary statement, address the following questions.
+What are the advantages or disadvantages of refactoring code?
+How do these pros and cons apply to refactoring the original VBA script?
 
 
 
