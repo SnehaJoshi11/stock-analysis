@@ -52,6 +52,8 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 <img src="Resources/Run Analysis Refactored2(2017).png" width="200">
 </p>
 </p>
+ 
+
 ## Data Background
 
 
