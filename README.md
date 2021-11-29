@@ -1,7 +1,7 @@
 # Stock-Analysis with VBA and Excel
 ## Overview : VBA Stock Analysis Project
 
-We are analysing the yearly stock data to compare the stock performance between 2017 and 2018, as well as the execution times 
+We are analyzing the yearly stock data to compare the stock performance between 2017 and 2018, as well as the execution times 
 of the original script and the refactored script.
 
 ## Purpose
