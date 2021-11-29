@@ -30,7 +30,7 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 - With the help of setting timer,it shows how much time it required to run the process or code.
 - Refer the below screen shot.
 <p align="center">
-![This is an image](https://github.com/SnehaJoshi11/stock-analysis/main/Resources/All stocks(2018))
+https://github.com/SnehaJoshi11/stock-analysis/tree/main/Resources/All stocks(2018)
 
 
 	
