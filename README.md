@@ -29,7 +29,7 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 - We find out the stocks information according to year"2017" and"2018".
 - With the help of setting timer,it shows how much time it required to run the process or code.
 - Refer the below screen shot.
-
+<p align="center">
 <img src="Resources/All stocks(2017)" width="200">
 	
 <img src="Resources/All stocks(2018)" width="200">	
