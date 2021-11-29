@@ -160,7 +160,8 @@ You need to write the code which has small changes and efficiency that would mak
 
  <p>   
 
-**How do these pros and cons apply to refactoring the original VBA script? **
+**How do these pros and cons apply to refactoring the original VBA script?**
+	
 
 It is the easy way to rearrange, restructure, and clarify existing code at the same time even not changing the behavior of your code.
 	
