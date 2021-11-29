@@ -181,8 +181,3 @@ It is the easy way to rearrange, restructure, and clarify existing code at the s
 - You can avoid facing difficulty later if you pay attention to the code refactoring process earlier.
 	
 </p>
-<p align="center">
-<img src="Resources/" width="200">
-<p align="center">
-<img src="Resources/" width="200">
-
