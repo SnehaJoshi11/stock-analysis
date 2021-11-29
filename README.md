@@ -31,8 +31,9 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 - Refer the below screen shot.
 <p align="center">
 	<img src="Resources/All stocks(2017).png" width="200">
-
+</p>
 	
+<p align="center">
 	<img src="Resources/All stocks(2018).png" width="200">	
 	
 </p>
