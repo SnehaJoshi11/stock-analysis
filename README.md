@@ -68,7 +68,9 @@ With the help of given steps, I began to copy required data and write the code a
 Below given code, which I was trying to refactor the data and images to understand how refactoring increases the eficiency of the code.
 
 <p>
-'1a) Create a ticker Index
+	
+	'1a) Create a ticker Index
+	
 	tickerIndex = 0
 
 	'1b) Create three output arrays
@@ -142,18 +144,18 @@ What are the advantages or disadvantages of refactoring code?
 	    that would make your code better and in working mode.n basis of removing the  
 </p>
 <p>
- 1.Advantages-
+ **1.Advantages-**
 	    -VBA interpretation (Excel) of code can reveal patterns that are not easy to see in the source.
 	    -Errores can easily appear in well structured code that conatains loops.
 
- 2.Disadvantages-
+ **2.Disadvantages-**
 	    -It is time consuming.
 	    -You have to change the logic to eleminate the duplicate lines.
 	    -It can also affect thetesting outcomes.
 	
 </p>
  <p>                                  
- How do these pros and cons apply to refactoring the original VBA script?
+ **How do these pros and cons apply to refactoring the original VBA script?**
 	    --It is the easy way to rearrange, restructure, and clarify existing code at the same time 
 	  even not changing the behaviour of your code.
 	
