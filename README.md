@@ -30,7 +30,10 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 - With the help of setting timer,it shows how much time it required to run the process or code.
 - Refer the below screen shot.
 
-<img src="Resources/" width="200">
+<img src="Resources/All stocks(2017)" width="200">
+	
+<img src="Resources/All stocks(2018)" width="200">	
+	
 </p>
 
 
@@ -43,7 +46,7 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 - Refer the below screen shot
 	
 <p align="center">
-<img src="Resources/" width="200">
+<img src="Resources/Run Analysis Refactored2(2017)" width="200">
 </p>
 
 ## Data Background
@@ -51,11 +54,6 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 
 Given data was about 12 different stocks. It is having information about stocks including
 ticker value, date issued, opening, closing and adjusted closing price with highest and lowest price and their 		 volumes.
-
-
-<p align="center">
-<img src="Resources/" width="200">
- </p>
 
 
 ## Analysis
@@ -131,7 +129,7 @@ Below given code, which I was trying to refactor the data and images to understa
 
 </p>
 <p align="center">
-<img src="Resources/" width="200">
+<img src="Resources/Run Analysis Refactored2(2018)" width="200">
 
 </p>
 
@@ -150,6 +148,16 @@ You need to write the code which has small changes and efficiency that would mak
 	    -With the help of VBA interpretation (Excel) of code, you can find out the patterns which are not easy to see through source.
 	    -Errors can easily appear in well-structured code that contains loops.
 
+<p align="center">
+<img src="Resources/VBA_Challenge_2017" width="200">
+	
+
+</p>
+<p align="center">
+<img src="Resources/VBA_Challenge_2018" width="200">
+	
+
+</p>
 **2. Disadvantages-**
 
 	    -It is time consuming.
