@@ -41,7 +41,9 @@ In "All Stocks Analysis" with the help of given process and examples(Using array
 - In "All Stocks Analysis Refactored",Goal was to refactor the code to increase the efficiency of the original code.
 - With the help of setting timer,it shows how much time it required to run the process or code.
 - Refer the below screen shot
-
+	
+<p align="center">
+<img src="Resources/" width="200">
 </p>
 
 ## Data Background
@@ -133,38 +135,42 @@ Below given code, which I was trying to refactor the data and images to understa
 
 </p>
 
-**Summary :** 
-
-
-Summary: 
+**Summary:** 
 
 What are the advantages or disadvantages of refactoring code?
 
-<p>	You need to write the code which has small changes and efficiency 
-	    that would make your code better and in working mode.n basis of removing the  
+You need to write the code which has small changes and efficiency that would make your code better and in working mode.
+
 </p>
+
 <p>
- **1.Advantages-**
+
+**1.Advantages-**
+
 	    -VBA interpretation (Excel) of code can reveal patterns that are not easy to see in the source.
 	    -Errores can easily appear in well structured code that conatains loops.
 
- **2.Disadvantages-**
+**2. Disadvantages-**
+
 	    -It is time consuming.
 	    -You have to change the logic to eleminate the duplicate lines.
 	    -It can also affect thetesting outcomes.
 	
 </p>
- <p>                                  
- **How do these pros and cons apply to refactoring the original VBA script?**
-	    --It is the easy way to rearrange, restructure, and clarify existing code at the same time 
-	  even not changing the behaviour of your code.
+
+ <p>   
+
+**How do these pros and cons apply to refactoring the original VBA script?**
+
+It is the easy way to rearrange, restructure, and clarify existing code at the same time even not changing the behaviour of your code.
 	
 
-	    --It also produces a healthier code base, making it more useable, readable,
- 	      and maintainable for you or any other developerwho might using the code.
+- It also produces a healthier code base, making it more useable, readable,and maintainable for you or any other developerwho might using the code.
 
-	    -A clean and well-organized code is always easy to change, easy to understand, and easy to maintain.
-	     You can avoid facing difficulty later if you pay attention to the code refactoring process earlier.
+
+- A clean and well-organized code is always easy to change, easy to understand, and easy to maintain.
+
+- You can avoid facing difficulty later if you pay attention to the code refactoring process earlier.
 </p>
 <p align="center">
 <img src="Resources/" width="200">
