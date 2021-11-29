@@ -165,7 +165,8 @@ You need to write the code which has small changes and efficiency that would mak
 <img src="Resources/VBA_Challenge_2018.png" width="200">	
 
 </p>
-**2. Disadvantages-**
+
+**2. Diadvantages- **
 
 	    -It is time consuming.
 	    -You must change the logic to eliminate the duplicate lines.
