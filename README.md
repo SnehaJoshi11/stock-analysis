@@ -46,10 +46,11 @@ So here we used VBA to analyze the given stock data by writing a subroutine "ALL
 - With the help of setting timer, it shows how much time it required to run the process or code.
 - Refer the below screen shot
 	
+	
 <p align="center">
 <img src="Resources/Run Analysis Refactored2(2017).png" width="200">
 </p>
-
+</p>
 ## Data Background
 
 
@@ -129,6 +130,7 @@ Below given code, which I was trying to refactor the data and images to understa
 	End If
 
 </p>
+	
 <p align="center">
 <img src="Resources/Run Analysis Refactored2(2018).png" width="200">
 
@@ -148,15 +150,15 @@ You need to write the code which has small changes and efficiency that would mak
 
 	    -With the help of VBA interpretation (Excel) of code, you can find out the patterns which are not easy to see through source.
 	    -Errors can easily appear in well-structured code that contains loops.
+</p>
 
 <p align="center">
 <img src="Resources/VBA_Challenge_2017.png" width="200">
-	
+</p>	
 
-</p>
+
 <p align="center">
-<img src="Resources/VBA_Challenge_2018.png" width="200">
-	
+<img src="Resources/VBA_Challenge_2018.png" width="200">	
 
 </p>
 **2. Disadvantages-**
