@@ -166,7 +166,7 @@ You need to write the code which has small changes and efficiency that would mak
 
 </p>
 
-**2. Diadvantages- **
+**2.Diadvantages-**
 
 	    -It is time consuming.
 	    -You must change the logic to eliminate the duplicate lines.
