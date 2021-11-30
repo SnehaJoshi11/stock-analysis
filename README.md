@@ -151,6 +151,7 @@ You need to write the code which has small changes and efficiency that would mak
 
 **1. Advantages-**
 
+	    -It is fast.
 	    -With the help of VBA interpretation (Excel) of code, you can find out the patterns which are not easy to see through source.
 	    -Errors can easily appear in well-structured code that contains loops.
 </p>
@@ -164,7 +165,8 @@ You need to write the code which has small changes and efficiency that would mak
 <img src="Resources/VBA_Challenge_2018.png" width="200">	
 
 </p>
-**2. Disadvantages-**
+
+**2. Diadvantages- **
 
 	    -It is time consuming.
 	    -You must change the logic to eliminate the duplicate lines.
